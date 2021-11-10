@@ -1,0 +1,26 @@
+h2 {
+    text-align: center;
+    display: auto;
+    color: #F2F2F2;
+    margin-left: 50px;
+    font-family: walkway;
+}
+h1 {
+    color: #F2F2F2;
+    font-family: walkway;
+}
+body {
+    background-color: #262526;
+}
+.navbar-brand {
+    color: #F2F2F2;
+}
+.card {
+    display: inline-block;
+    margin-left: 9%;
+    margin-top: 5px;
+
+}
+form {
+    color:#F2F2F2;
+}
